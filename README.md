@@ -1,2 +1,2 @@
 # Basic_HTML_and_CSS
- Basic_HTML_and_CSS projects
+This Repository is for Basic_HTML_and_CSS projects
