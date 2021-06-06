@@ -1,0 +1,14 @@
+p {
+		background-color: aqua;
+		color: red;
+		text-decoration: underline ;
+		font-weight: 800;
+		font-size: large;
+		text-align: center;
+	}
+h1 {
+		text-shadow: 2px 2px red;
+	}
+body {
+		background-color: aqua;
+	}

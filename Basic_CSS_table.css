@@ -1,0 +1,25 @@
+td:hover {
+	text-align: center;
+	background-color: black;
+	color: red;
+	}
+td {
+	text-align: center;
+	}
+th {
+	font-size: 150%;
+	}
+h1 {
+	text-align: center;
+	}
+table {
+	border: 8px solid aqua;
+	}
+tr, th	{
+		background-color: aqua;
+		color: green;
+		}
+tr, td	{
+		background-color: aqua;
+		color: green;
+		}
